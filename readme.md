@@ -1,4 +1,4 @@
-# The Ultimate Cricket Quiz
+# Random Cricket Quiz Generator
 
 A simple and interactive quiz application that generates a new set of questions about cricket each time you play. This project is built using fundamental web technologies and is a great example of dynamic content generation on the client side.
 
@@ -33,5 +33,6 @@ A simple and interactive quiz application that generates a new set of questions 
 4.  The application will indicate if your answer was correct and automatically move to the next question.
 5.  After the last question, your final score will be displayed on the screen.
 6.  To play again, click the "Generate Quiz" button.
+
 
 
