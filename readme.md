@@ -27,12 +27,13 @@ A simple and interactive quiz application that generates a new set of questions 
 ---
 
 ### How to Use
-1.  Open the `index.html` file in your web browser.
+1.  Open the `link` from about section in your web browser.
 2.  Click the "Generate Quiz" button to load a new set of questions.
 3.  Read the question and click on the answer you believe is correct.
 4.  The application will indicate if your answer was correct and automatically move to the next question.
 5.  After the last question, your final score will be displayed on the screen.
 6.  To play again, click the "Generate Quiz" button.
+
 
 
 
